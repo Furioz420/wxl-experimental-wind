@@ -1,6 +1,6 @@
 # Experimental Wind
 
-The repository name is `wxl-experimental-win`; the native module ID and target are `wxl-experimental-wind`. This review branch carries the committed WXL v1.1 module snapshot from `b14c80943b500cd006bd86b3383f67deff238dce`. Its weather field supplies deterministic wind values to environment consumers, including experimental water, without making the wind provider depend on the water module. It is experimental and is not a standalone game-data patch.
+The canonical repository name, native module ID, and target are `wxl-experimental-wind` (the earlier `wxl-experimental-win` URL redirects here). This review branch carries the committed WXL v1.1 module snapshot from `b14c80943b500cd006bd86b3383f67deff238dce`. Its weather field supplies deterministic wind values to environment consumers, including experimental water, without making the wind provider depend on the water module. It is experimental and is not a standalone game-data patch.
 
 ## Integration and release checks
 

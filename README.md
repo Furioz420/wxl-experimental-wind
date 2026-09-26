@@ -10,4 +10,5 @@ Keep this a draft until the exact source and core pair builds and the wind/water
 
 ## Credits and license
 
-Preserve WarcraftXL copyright headers and the GPL-3.0 license. Furioz is credited for the local v1.1 integration in Git history. No external game assets are bundled.
+Preserve WarcraftXL copyright headers and the GPL-3.0 license. Ithorgrim is credited for the local v1.1 integration in Git history. No external game assets are bundled.
+I (Furioz) just experimented further with this including some of the CoA "Descension" teams work.
